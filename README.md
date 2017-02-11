@@ -6,7 +6,7 @@ MY NSTP EXPERIENCE
 </head>
 <body>
 <h1> By Angela </h1>
-<img id=”C:\Users\ECCE-PC23\Documents\Angela” src="C:\Users\ECCE-PC23\Documents\Angela\Gela.jpg"
+<img src="Gela.jpg"
 alt=”me and my mentors”>
 
 <p> Describe experience: </p>
